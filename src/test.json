@@ -1,0 +1,251 @@
+{
+    "name": "Smollydk",
+    "race": "Blood Elf",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 16160,
+    "honorable_kills": 0,
+    "thumbnail_url": "https://render.worldofwarcraft.com/eu/character/twisting-nether/209/187028177-avatar.jpg?alt=/wow/static/images/2d/avatar/10-1.jpg",
+    "region": "eu",
+    "realm": "Twisting Nether",
+    "last_crawled_at": "2024-08-21T09:47:08.000Z",
+    "profile_url": "https://raider.io/characters/eu/twisting-nether/Smollydk",
+    "profile_banner": "hordebanner1",
+    "mythic_plus_best_runs": [
+        {
+            "dungeon": "The Nokhud Offensive",
+            "short_name": "NO",
+            "mythic_level": 9,
+            "completed_at": "2024-07-28T20:41:24.000Z",
+            "clear_time_ms": 1182906,
+            "par_time_ms": 2400999,
+            "num_keystone_upgrades": 3,
+            "map_challenge_mode_id": 400,
+            "zone_id": 13982,
+            "score": 158,
+            "affixes": [
+                {
+                    "id": 10,
+                    "name": "Fortified",
+                    "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                    "icon": "ability_toughness",
+                    "wowhead_url": "https://wowhead.com/affix=10"
+                },
+                {
+                    "id": 135,
+                    "name": "Afflicted",
+                    "description": "While in combat, afflicted souls periodically appear and seek the aid of players.",
+                    "icon": "spell_misc_emotionsad",
+                    "wowhead_url": "https://wowhead.com/affix=135"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/11590272-9-the-nokhud-offensive"
+        },
+        {
+            "dungeon": "Ruby Life Pools",
+            "short_name": "RLP",
+            "mythic_level": 9,
+            "completed_at": "2024-07-16T14:27:07.000Z",
+            "clear_time_ms": 1399211,
+            "par_time_ms": 1800999,
+            "num_keystone_upgrades": 2,
+            "map_challenge_mode_id": 399,
+            "zone_id": 14063,
+            "score": 155.8,
+            "affixes": [
+                {
+                    "id": 10,
+                    "name": "Fortified",
+                    "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                    "icon": "ability_toughness",
+                    "wowhead_url": "https://wowhead.com/affix=10"
+                },
+                {
+                    "id": 134,
+                    "name": "Entangling",
+                    "description": "While in combat, entangling vines periodically appear and snare players.",
+                    "icon": "inv_misc_root_01",
+                    "wowhead_url": "https://wowhead.com/affix=134"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/10985659-9-ruby-life-pools"
+        },
+        {
+            "dungeon": "The Azure Vault",
+            "short_name": "AV",
+            "mythic_level": 8,
+            "completed_at": "2024-06-25T15:50:53.000Z",
+            "clear_time_ms": 1189016,
+            "par_time_ms": 2250999,
+            "num_keystone_upgrades": 3,
+            "map_challenge_mode_id": 401,
+            "zone_id": 13954,
+            "score": 151,
+            "affixes": [
+                {
+                    "id": 9,
+                    "name": "Tyrannical",
+                    "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                    "icon": "achievement_boss_archaedas",
+                    "wowhead_url": "https://wowhead.com/affix=9"
+                },
+                {
+                    "id": 134,
+                    "name": "Entangling",
+                    "description": "While in combat, entangling vines periodically appear and snare players.",
+                    "icon": "inv_misc_root_01",
+                    "wowhead_url": "https://wowhead.com/affix=134"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/9710670-8-the-azure-vault"
+        },
+        {
+            "dungeon": "Algeth'ar Academy",
+            "short_name": "AA",
+            "mythic_level": 8,
+            "completed_at": "2024-06-25T16:19:16.000Z",
+            "clear_time_ms": 1115101,
+            "par_time_ms": 1920999,
+            "num_keystone_upgrades": 3,
+            "map_challenge_mode_id": 402,
+            "zone_id": 14032,
+            "score": 151,
+            "affixes": [
+                {
+                    "id": 9,
+                    "name": "Tyrannical",
+                    "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                    "icon": "achievement_boss_archaedas",
+                    "wowhead_url": "https://wowhead.com/affix=9"
+                },
+                {
+                    "id": 134,
+                    "name": "Entangling",
+                    "description": "While in combat, entangling vines periodically appear and snare players.",
+                    "icon": "inv_misc_root_01",
+                    "wowhead_url": "https://wowhead.com/affix=134"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/9710664-8-algethar-academy"
+        },
+        {
+            "dungeon": "Brackenhide Hollow",
+            "short_name": "BH",
+            "mythic_level": 8,
+            "completed_at": "2024-07-06T22:00:32.000Z",
+            "clear_time_ms": 1598906,
+            "par_time_ms": 2100999,
+            "num_keystone_upgrades": 2,
+            "map_challenge_mode_id": 405,
+            "zone_id": 13991,
+            "score": 149,
+            "affixes": [
+                {
+                    "id": 9,
+                    "name": "Tyrannical",
+                    "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                    "icon": "achievement_boss_archaedas",
+                    "wowhead_url": "https://wowhead.com/affix=9"
+                },
+                {
+                    "id": 124,
+                    "name": "Storming",
+                    "description": "While in combat, enemies periodically summon damaging whirlwinds.",
+                    "icon": "spell_nature_cyclone",
+                    "wowhead_url": "https://wowhead.com/affix=124"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/10430990-8-brackenhide-hollow"
+        },
+        {
+            "dungeon": "Halls of Infusion",
+            "short_name": "HOI",
+            "mythic_level": 8,
+            "completed_at": "2024-06-25T11:37:17.000Z",
+            "clear_time_ms": 1702428,
+            "par_time_ms": 2100999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 406,
+            "zone_id": 14082,
+            "score": 148.4,
+            "affixes": [
+                {
+                    "id": 9,
+                    "name": "Tyrannical",
+                    "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                    "icon": "achievement_boss_archaedas",
+                    "wowhead_url": "https://wowhead.com/affix=9"
+                },
+                {
+                    "id": 134,
+                    "name": "Entangling",
+                    "description": "While in combat, entangling vines periodically appear and snare players.",
+                    "icon": "inv_misc_root_01",
+                    "wowhead_url": "https://wowhead.com/affix=134"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/9636521-8-halls-of-infusion"
+        },
+        {
+            "dungeon": "Neltharus",
+            "short_name": "NELT",
+            "mythic_level": 8,
+            "completed_at": "2024-07-16T15:01:19.000Z",
+            "clear_time_ms": 1705297,
+            "par_time_ms": 1980999,
+            "num_keystone_upgrades": 1,
+            "map_challenge_mode_id": 404,
+            "zone_id": 14011,
+            "score": 147.7,
+            "affixes": [
+                {
+                    "id": 10,
+                    "name": "Fortified",
+                    "description": "Non-boss enemies have 20% more health and inflict up to 20% increased damage.",
+                    "icon": "ability_toughness",
+                    "wowhead_url": "https://wowhead.com/affix=10"
+                },
+                {
+                    "id": 134,
+                    "name": "Entangling",
+                    "description": "While in combat, entangling vines periodically appear and snare players.",
+                    "icon": "inv_misc_root_01",
+                    "wowhead_url": "https://wowhead.com/affix=134"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/10994810-8-neltharus"
+        },
+        {
+            "dungeon": "Uldaman: Legacy of Tyr",
+            "short_name": "ULD",
+            "mythic_level": 6,
+            "completed_at": "2024-07-03T12:04:22.000Z",
+            "clear_time_ms": 1605413,
+            "par_time_ms": 2100999,
+            "num_keystone_upgrades": 2,
+            "map_challenge_mode_id": 403,
+            "zone_id": 13968,
+            "score": 134.9,
+            "affixes": [
+                {
+                    "id": 9,
+                    "name": "Tyrannical",
+                    "description": "Bosses have 25% more health. Bosses and their minions inflict up to 15% increased damage.",
+                    "icon": "achievement_boss_archaedas",
+                    "wowhead_url": "https://wowhead.com/affix=9"
+                },
+                {
+                    "id": 124,
+                    "name": "Storming",
+                    "description": "While in combat, enemies periodically summon damaging whirlwinds.",
+                    "icon": "spell_nature_cyclone",
+                    "wowhead_url": "https://wowhead.com/affix=124"
+                }
+            ],
+            "url": "https://raider.io/mythic-plus-runs/season-df-4/10218313-6-uldaman-legacy-of-tyr"
+        }
+    ]
+}
